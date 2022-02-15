@@ -1,2 +1,2 @@
 # NewsWebsite
-This basic news website
+This basic news website for users
